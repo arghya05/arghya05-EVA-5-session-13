@@ -1,4 +1,4 @@
-# Yolo2 & 3
+# Yolo2 & 3, 4 and 5
 This session was about the yolo3 architecture
 
 ## *Assignment*
